@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1607626762 source:c:\users\leandro barros\desktop\estacionamento-final\estacionamento\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"pilha.h"
+
+1607626190 c:\users\leandro barros\desktop\estacionamento-final\estacionamento\pilha.h
+
+1607627704 source:c:\users\leandro barros\desktop\estacionamento-final\estacionamento\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"pilha.h"
+
+1607627704 source:c:\users\leandro barros\desktop\trab2_leandrobarros\estacionamento\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"pilha.h"
+
+1607687381 c:\users\leandro barros\desktop\trab2_leandrobarros\estacionamento\pilha.h
+
+1607687300 source:c:\users\leandro barros\desktop\trab2_leandrobarros\estacionamento\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"pilha.h"
+
+1607687300 source:c:\users\leandro barros\desktop\trab2_leandrobarros\trab2_leandrobarros\estacionamento\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"pilha.h"
+
+1607687381 c:\users\leandro barros\desktop\trab2_leandrobarros\trab2_leandrobarros\estacionamento\pilha.h
+
+1607690279 source:c:\users\leandro barros\desktop\trab2_leandrobarros\trab2_leandrobarros\estacionamento\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"pilha.h"
+
