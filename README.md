@@ -1,2 +1,2 @@
-# simulador-estacionamento
-Simulador de um estacionamento em C
+# Parking Lot Simulator
+
